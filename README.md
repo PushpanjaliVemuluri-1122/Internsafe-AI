@@ -1,8 +1,13 @@
+
 # InternSafe-AI 🛡️
 
 ### A Web Application for Reporting Suspicious Internship Offers
 
 InternSafe-AI is a web application designed to help users record and review suspicious internship offers. Users can submit company details and describe their experiences to maintain a record of potentially suspicious recruitment practices.
+
+## 📸 Project Preview
+
+![InternSafe-AI Dashboard](internsafe-screenshot.png)
 
 ## 🚀 Live Demo
 
@@ -57,6 +62,7 @@ InternSafe-AI is a web application designed to help users record and review susp
 ## 💻 Run Locally
 
 ### Prerequisites
+
 - Node.js and npm
 - PostgreSQL database
 
@@ -113,9 +119,9 @@ The following checks were performed on the deployed application:
 
 B.Tech Computer Science and Engineering Student
 
-GitHub: https://github.com/PushpanjaliVemuluri-1122
-
-LinkedIn: https://linkedin.com/in/pushpanjali-vemuluri-a88023428
+- **GitHub:** https://github.com/PushpanjaliVemuluri-1122
+- **LinkedIn:** https://linkedin.com/in/pushpanjali-vemuluri-a88023428
+- **Live Project:** https://internsafe-ai.vercel.app
 
 ---
 
