@@ -1,13 +1,12 @@
 
 # InternSafe-AI 🛡️
-
 ### A Web Application for Reporting Suspicious Internship Offers
 
 InternSafe-AI is a web application designed to help users record and review suspicious internship offers. Users can submit company details and describe their experiences to maintain a record of potentially suspicious recruitment practices.
 
 ## 📸 Project Preview
 
-![InternSafe-AI Dashboard](internsafe-screenshot.png)
+![InternSafe-AI Dashboard](./Screenshot%202026-10-28%20155303.png)
 
 ## 🚀 Live Demo
 
@@ -28,19 +27,19 @@ InternSafe-AI is a web application designed to help users record and review susp
 
 ## 🛠️ Tech Stack
 
-**Frontend**
+### Frontend
 - React
 - JavaScript
 - HTML
 - CSS
 - Vercel
 
-**Backend**
+### Backend
 - Node.js
 - Express.js
 - REST API
 - PostgreSQL
-- `pg` PostgreSQL client
+- pg PostgreSQL client
 - Render
 
 ## ⚙️ How It Works
@@ -62,7 +61,6 @@ InternSafe-AI is a web application designed to help users record and review susp
 ## 💻 Run Locally
 
 ### Prerequisites
-
 - Node.js and npm
 - PostgreSQL database
 
@@ -80,7 +78,9 @@ cd backend
 npm install
 ```
 
-Configure the `DATABASE_URL` environment variable with your PostgreSQL connection string. Keep database credentials private and never commit secrets to GitHub.
+Configure the `DATABASE_URL` environment variable with your PostgreSQL connection string.
+
+Keep database credentials private and never commit secrets to GitHub.
 
 Start the backend using:
 
@@ -123,6 +123,4 @@ B.Tech Computer Science and Engineering Student
 - **LinkedIn:** https://linkedin.com/in/pushpanjali-vemuluri-a88023428
 - **Live Project:** https://internsafe-ai.vercel.app
 
----
-
-*Note: Reports are user-submitted and should be independently verified. A report alone does not establish that a company or internship offer is fraudulent.*
+> Note: Reports are user-submitted and should be independently verified. A report alone does not establish that a company or internship offer is fraudulent.
